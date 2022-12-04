@@ -28,6 +28,6 @@
 
 
 [website]: https://projectdarkzone.com
-[twitter]: https://twitter.com/MistyxInori
+[twitter]: https://twitter.com/justbejordan
 [youtube]: https://www.youtube.com/channel/UCNcDQTPJyLx2LOoi87cTeYQ
 [instagram]: https://instagram.com/MistyxInori
