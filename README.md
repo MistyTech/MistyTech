@@ -15,16 +15,11 @@
 
 [<img align="left" alt="projectdarkzone.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="justjordan.co.uk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Misty | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Misty | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Misty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 
 <br />
 
 
 
 [community website]: https://projectdarkzone.com
-[personal website]: https://justjordan.co.uk
-[twitter]: https://twitter.com/justbejordan
-[youtube]: https://www.youtube.com/channel/UCNcDQTPJyLx2LOoi87cTeYQ
-
+[personal website]: https://justjordan.co.uk/links
