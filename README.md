@@ -6,7 +6,6 @@
 
 ## I currently work in the Gaming Industry
 
-- 🚀 I just launched my first project: [Dark Zone][website]!
 - 🔧 I'm currently learning gaming server configs and networking
 - 👯 I’m looking to collaborate with other content creators
 - 🤯 Goals: Contribute to the gaming / self-hosting community
