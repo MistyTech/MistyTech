@@ -1,6 +1,7 @@
 ###  Hello I'm Jordan and I'm currently building - [Dark Zone][website]
 
 [![Website](https://img.shields.io/website?label=ProjectDarkZone.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://projectdarkzone.com)
+[![Website](https://img.shields.io/website?label=JustJordan.co.uk&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://justjordan.co.uk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/justbejordan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMistyxInori&screen_name=ProjectDarkZone)
 
 ## I currently work in the Gaming Industry
@@ -21,7 +22,8 @@
 
 
 
-[website]: https://projectdarkzone.com
+[community website]: https://projectdarkzone.com
+[personal website]: https://justjordan.co.uk
 [twitter]: https://twitter.com/justbejordan
 [youtube]: https://www.youtube.com/channel/UCNcDQTPJyLx2LOoi87cTeYQ
-[instagram]: https://instagram.com/MistyxInori
+
