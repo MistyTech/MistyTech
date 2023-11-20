@@ -1,4 +1,4 @@
-###  Hello I'm Jordan and I'm currently building - [Dark Zone][website]
+###  Hello I'm Jordan
 
 [![Website](https://img.shields.io/website?label=ProjectDarkZone.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://projectdarkzone.com)
 [![Website](https://img.shields.io/website?label=JustJordan.co.uk&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://justjordan.co.uk)
